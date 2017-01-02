@@ -49,7 +49,9 @@ This is a team project for the real time class.
 + 参考github合作规范进行项目合作，进度控制和讨论
 
 ##七、团队分工
-|   成员                        |   任务          |
+
+|成员 |任务 |
+|-----|----------|
 | tangyuanjie  lihanyan         | 使用QT编写界面   |
 | lxgszc  New_Lee               | 获取数据        |
 | hacktw 风少丶                  | 人机交互逻辑    |
