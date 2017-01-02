@@ -19,7 +19,7 @@ This is a team project for the real time class.
 |班级  |  姓名  |  学号  |  Github账号名  |  博客园账号名|
 |-----|-------|--------|--------------|----------|
 |机械1303|汤元杰|U201310638| tangyuanjie | 汤元杰 |
-|机械1306|李新新|U201311432|  |  |
+|机械1306|李新新|U201311432|  | New-Lee | 李新新|
 |机械1308|李含嫣|U201310795|  lihanyan|  lihanyan|
 |机械1308|邓少丰|U201310815| fengshaofeng | 风少丶 |
 |机械1308|王成蹊 |U201310810| lxgszc | lxgszc |
