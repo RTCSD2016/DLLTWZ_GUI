@@ -53,5 +53,5 @@ This is a team project for the real time class.
 |成员 |任务 |
 |-----|----------|
 | tangyuanjie  lihanyan         | 使用QT编写界面   |
-| lxgszc  New_Lee               | 获取数据        |
+| lxgszc  New_Lee               | 使用物理引擎获取冰球和击球器的当前位置 |
 | hacktw 风少丶                  | 人机交互逻辑    |
